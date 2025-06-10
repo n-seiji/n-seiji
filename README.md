@@ -10,6 +10,7 @@
 ## Skills 🛠
 
 ### Languages
+
 - Go
 - Kotlin
 - TypeScript
@@ -18,6 +19,7 @@
 - Ruby
 
 ### Technologies
+
 - Docker
 - Kubernetes
 - Argocd
@@ -31,6 +33,10 @@
 ## Top Languages 🗣
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-seiji&layout=compact&theme=tokyonight&hide=html,css)
+
+## Lapras
+
+<p ><a href="https://lapras.com/public/n-seiji" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.21&b=3.48&i=3.32&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a></p>
 
 ## Contact 📫
 
