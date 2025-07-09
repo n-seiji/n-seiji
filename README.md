@@ -7,6 +7,8 @@
 - 💬 Expertise: Backend Development(Go, Kotlin etc...), Web Engineer(Remix, React Router, Nuxt.js etc...)
 - Raycast Lover: I'm Member of [Raycast Community Japan](https://devx.jp/rct).
 
+Learn More => [My home page](https://www.sijis.me)
+
 ## Skills 🛠
 
 ### Languages
