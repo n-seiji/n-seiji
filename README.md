@@ -44,7 +44,6 @@ Learn More => [My home page](https://www.sijis.me)
 
 - Twitter: [@n_seiji](https://twitter.com/n_seiji)
 - Lapras: [@n-seiji](https://qiita.com/se_eiji)
-- Linkdin: [@n-seiji](https://www.linkedin.com/in/n-seiji/)
 
 ## Fun Facts ⚡
 
