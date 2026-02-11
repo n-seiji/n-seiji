@@ -50,13 +50,14 @@ Learn More => [My home page](https://www.sijis.me)
 ## GitHub Stats 📊
 
 <a href="https://github.com/n-seiji">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-seiji&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-seiji&theme=radical" alt="Profile Details" />
 </a>
 
-## Top Languages 🗣
-
 <a href="https://github.com/n-seiji">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-seiji&layout=compact&theme=tokyonight&hide=html,css,makefile" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n-seiji&theme=radical" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/n-seiji">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n-seiji&theme=radical" alt="Top Languages" />
 </a>
 
 ## Contact 📫
