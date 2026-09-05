@@ -5,7 +5,7 @@
 - 🔭 Current Work: Team Leader at [miive, Inc.](https://miive.jp/)
 - 🌱 Currently Learning: Cloud Native Technologies, AI/ML
 - 💬 Expertise: Fullstack Development (Go, Kotlin, TypeScript), Frontend (React, React Router, Nuxt.js), Infra (AWS, GCP, Kubernetes)
-- Raycast Lover: I'm Member of [Raycast Community Japan](https://devx.jp/rct).
+- Raycast Lover: I'm a core member of [Raycast Community Japan](https://devx.jp/rct).
 
 Learn More => [My home page](https://www.sijis.me)
 
@@ -27,14 +27,14 @@ Learn More => [My home page](https://www.sijis.me)
 
 ### Infra
 
-- AWS / GCP
+- AWS / GCP / Cloudflare
 - Docker / Kubernetes
 - MySQL
 
 ### Tools
 
 - Git / GitHub / Bitbucket
-- Argo CD
+- Argo CD / Nix
 - Neovim / mise / Raycast
 
 ## Career
@@ -62,4 +62,7 @@ Learn More => [My home page](https://www.sijis.me)
 
 ## Contact 📫
 
-- Twitter: [@n_seiji](https://twitter.com/n_seiji)
+- X: [@se_eiji](https://x.com/se_eiji)
+- Bluesky: [se-eiji.bsky.social](https://bsky.app/profile/se-eiji.bsky.social)
+- sizu.me: [se_eiji](https://sizu.me/se_eiji)
+- LAPRAS: [n-seiji](https://lapras.com/public/n-seiji)
